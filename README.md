@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sharun Chaudhary</h1>
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0AFFEF&lines=Full+Stack+Developer;AI+Developer;React+%7C+FastAPI+%7C+Python;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Developer;Python+%7C+Node+%7C+Next.js+%7C+Laravel;Building+Scalable+Web+Apps" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA Student at **Meerut Institute of Technology**
-- 💻 Passionate about **Web Development & AI**
-- 🔥 Building real-world projects using **React, FastAPI, PHP**
-- 🎯 Goal: Become a **Software Developer**
+- 🎓 MCA Graduate  
+- 💻 Skilled in **Full Stack Development & AI**
+- 🚀 Experience with **Python, Node.js, Next.js, PHP, Laravel**
+- 🔥 Built real-world projects (AI, Payment Gateway, E-commerce, LMS)
+- 🎯 Goal: Become a **Top Software Engineer**
 
 ---
 
@@ -23,9 +24,14 @@
   <img src="https://skillicons.dev/icons?i=python,js,php,html,css,sql" />
 </p>
 
-### ⚙️ Frameworks & Tools:
+### ⚙️ Frameworks & Libraries:
 <p>
-  <img src="https://skillicons.dev/icons?i=react,fastapi,django,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,laravel,django,bootstrap" />
+</p>
+
+### 🛠️ Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -41,10 +47,11 @@
 
 ## 🚀 Projects
 
-- 🤖 AI Code Assistant  
-- 💳 Razorpay Payment Integration  
-- 📚 Online Course Platform  
-- 🛒 E-commerce Website  
+- 🤖 AI Code Assistant (React + FastAPI)  
+- 💳 Razorpay Payment Gateway Integration  
+- 📚 Online Learning Platform (PHP + MySQL)  
+- 🛒 E-commerce Website (React + Node.js + MySQL)  
+- 🌐 Full Stack Apps using Next.js & Laravel  
 
 ---
 
@@ -54,7 +61,7 @@
   <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:sharun6006@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -69,6 +76,6 @@
 
 ---
 
-## ⭐ Fun Line
+## ⚡ Fun Fact
 
-✨ *"Code. Learn. Build. Repeat."* ✨
+💡 *I love building scalable apps and exploring AI technologies.*
