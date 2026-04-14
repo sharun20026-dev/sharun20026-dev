@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 MCA Graduate  
+- 🎓 MCA 
 - 💻 Skilled in **Full Stack Development & AI**
 - 🚀 Experience with **Python, Node.js, Next.js, PHP, Laravel**
 - 🔥 Built real-world projects (AI, Payment Gateway, E-commerce, LMS)
